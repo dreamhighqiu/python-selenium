@@ -1,0 +1,33 @@
+2018-01-15 18:41:50,282 - Creat_Product - INFO - Open browser
+2018-01-15 18:41:53,986 - LoginPage - INFO - 登录
+2018-01-15 18:41:57,598 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:41:57,599 - ProductPage - INFO - 跳转到选择的产品页面
+2018-01-15 18:41:58,252 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:41:58,930 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:41:58,930 - ProductPage - INFO - 点击创建产品
+2018-01-15 18:41:59,359 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:41:59,802 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:42:00,217 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:42:01,019 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:42:01,030 - ProductPage - INFO - 输入标签内容
+2018-01-15 18:42:01,525 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:42:01,545 - ProductPage - INFO - 点击添加按钮
+2018-01-15 18:42:01,951 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:42:01,951 - ProductPage - INFO - 输入产品名称
+2018-01-15 18:42:02,069 - ProductPage - INFO - 修改产品状态
+2018-01-15 18:42:02,148 - ProductPage - INFO - 选择开始日期
+2018-01-15 18:42:02,374 - ProductPage - INFO - 选择结束日期
+2018-01-15 18:42:02,601 - ProductPage - INFO - 可使用人数
+2018-01-15 18:42:02,653 - ProductPage - INFO - 输入产品别名
+2018-01-15 18:42:03,059 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:42:03,059 - ProductPage - INFO - 切换到框架使用方法
+2018-01-15 18:42:03,515 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:42:03,515 - ProductPage - INFO - 切换到框架内容使用
+2018-01-15 18:42:03,967 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:42:04,374 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:42:04,375 - ProductPage - INFO - 上传产品相册
+2018-01-15 18:42:07,220 - ProductPage - INFO - 上传海报图
+2018-01-15 18:42:10,454 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:42:10,454 - ProductPage - INFO - 点击保存按钮
+2018-01-15 18:42:10,864 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:42:10,865 - Creat_Product - INFO - Quit browser

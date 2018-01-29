@@ -1,0 +1,40 @@
+2018-01-15 19:28:18,200 - Creat_Product1 - INFO - Open browser
+2018-01-15 19:28:21,874 - LoginPage - INFO - 登录
+2018-01-15 19:28:25,197 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:25,197 - ProductPage - INFO - 跳转到选择的产品页面
+2018-01-15 19:28:25,852 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:26,571 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:26,571 - ProductPage - INFO - 点击创建产品
+2018-01-15 19:28:27,023 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:27,460 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:27,892 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:28,684 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:28,684 - ProductPage - INFO - 输入标签内容
+2018-01-15 19:28:29,186 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:29,207 - ProductPage - INFO - 点击添加按钮
+2018-01-15 19:28:29,635 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:29,635 - ProductPage - INFO - 输入产品名称
+2018-01-15 19:28:29,744 - ProductPage - INFO - 修改产品状态
+2018-01-15 19:28:29,825 - ProductPage - INFO - 可使用人数
+2018-01-15 19:28:29,895 - ProductPage - INFO - 选择开始日期
+2018-01-15 19:28:30,122 - ProductPage - INFO - 选择结束日期
+2018-01-15 19:28:30,359 - ProductPage - INFO - 输入价格
+2018-01-15 19:28:30,411 - ProductPage - INFO - 输入库存
+2018-01-15 19:28:30,502 - ProductPage - INFO - 输入位置
+2018-01-15 19:28:30,576 - ProductPage - INFO - 选择面积
+2018-01-15 19:28:30,654 - ProductPage - INFO - 会议室类型
+2018-01-15 19:28:30,756 - ProductPage - INFO - 输入产品别名
+2018-01-15 19:28:31,207 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:31,209 - ProductPage - INFO - 切换到框架使用方法
+2018-01-15 19:28:31,664 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:31,664 - ProductPage - INFO - 切换到框架内容使用
+2018-01-15 19:28:32,124 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:32,545 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:32,545 - ProductPage - INFO - 上传产品相册
+2018-01-15 19:28:35,411 - ProductPage - INFO - 上传海报图
+2018-01-15 19:28:38,516 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:38,516 - ProductPage - INFO - 点击保存按钮
+2018-01-15 19:28:38,931 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:28:38,934 - LoginPage - INFO - 登录
+2018-01-15 19:28:39,019 - LoginPage - INFO - 登录
+2018-01-15 19:28:39,084 - Creat_Product1 - INFO - Quit browser

@@ -1,0 +1,29 @@
+2018-01-15 18:32:25,848 - Creat_Product - INFO - Open browser
+2018-01-15 18:32:29,559 - LoginPage - INFO - 登录
+2018-01-15 18:32:32,721 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:32:32,721 - ProductPage - INFO - 跳转到选择的产品页面
+2018-01-15 18:32:33,408 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:32:34,101 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:32:34,101 - ProductPage - INFO - 点击创建产品
+2018-01-15 18:32:34,575 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:32:35,029 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:32:35,476 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:32:36,325 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:32:36,325 - ProductPage - INFO - 输入标签内容
+2018-01-15 18:32:36,864 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:32:36,884 - ProductPage - INFO - 点击添加按钮
+2018-01-15 18:32:37,319 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:32:37,319 - ProductPage - INFO - 输入产品名称
+2018-01-15 18:32:42,464 - ProductPage - INFO - 修改产品状态
+2018-01-15 18:32:42,552 - ProductPage - INFO - 可使用人数
+2018-01-15 18:32:42,625 - ProductPage - INFO - 选择开始日期
+2018-01-15 18:32:42,859 - ProductPage - INFO - 选择结束日期
+2018-01-15 18:32:43,075 - ProductPage - INFO - 输入价格
+2018-01-15 18:32:43,125 - ProductPage - INFO - 输入库存
+2018-01-15 18:32:43,204 - ProductPage - INFO - 输入位置
+2018-01-15 18:32:43,272 - ProductPage - INFO - 选择面积
+2018-01-15 18:32:43,345 - ProductPage - INFO - 会议室类型
+2018-01-15 18:32:43,440 - ProductPage - INFO - 输入产品别名
+2018-01-15 18:32:43,888 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 18:32:43,888 - ProductPage - INFO - 切换到框架使用方法
+2018-01-15 18:32:43,947 - Creat_Product - INFO - Quit browser

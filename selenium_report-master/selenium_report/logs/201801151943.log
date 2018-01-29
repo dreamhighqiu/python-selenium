@@ -1,0 +1,11 @@
+2018-01-15 19:43:45,611 - Creat_Product1 - INFO - Open browser
+2018-01-15 19:43:49,734 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:43:49,734 - ProductPage - INFO - 跳转到选择的产品页面
+2018-01-15 19:43:51,200 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:43:51,869 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:43:51,869 - ProductPage - INFO - 跳转到选择的产品页面
+2018-01-15 19:43:52,686 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:43:53,328 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:43:53,328 - ProductPage - INFO - 跳转到选择的产品页面
+2018-01-15 19:43:54,125 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-01-15 19:43:54,193 - Creat_Product1 - INFO - Quit browser
